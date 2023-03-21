@@ -1,1 +1,1 @@
-# fina-project
+Project of group 6
