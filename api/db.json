@@ -22,6 +22,14 @@
       "isDeleted": false,
       "loginCount": 0,
       "createdAt": 1672846609673
+    },
+    {
+      "id": "d1dd6337-1da8-453e-91ef-be7a114f38ae",
+      "email": "test@gmail.com",
+      "password": "test@gmail.com",
+      "isDeleted": false,
+      "loginCount": 0,
+      "createdAt": 1679313944707
     }
   ],
   "categories": [
@@ -35,27 +43,29 @@
     {
       "id": "cf3763e9-fcce-4745-818e-68c84c118312",
       "title": "phụ kiện",
-      "series": ["Apple Accessories",
-                "Hub chuyển đổi",
-                "Bộ Sạc MegaSafe & Type C",
-                "Giá Đỡ Macbook , Laptop , iMac",
-                "Mice / Mouse Microsoft"
-                ]
+      "series": [
+        "Apple Accessories",
+        "Hub chuyển đổi",
+        "Bộ Sạc MegaSafe & Type C",
+        "Giá Đỡ Macbook , Laptop , iMac",
+        "Mice / Mouse Microsoft"
+      ]
     },
     {
       "id": "f3bacc31-6fcb-4e9c-9bae-16772f5d9913",
       "title": "Iphone",
-      "series": ["Iphone 14 promax",
-                  "Iphone 14 pro",
-                  "Iphone 14 plus",
-                  "Iphone 14 ",
-                  "Iphone 13 promax",
-                  "Iphone 13 pro",
-                  "Iphone 13",
-                  "Iphone 12 promax",
-                  "Iphone 12 pro",
-                  "Iphone 12"
-    ]
+      "series": [
+        "Iphone 14 promax",
+        "Iphone 14 pro",
+        "Iphone 14 plus",
+        "Iphone 14 ",
+        "Iphone 13 promax",
+        "Iphone 13 pro",
+        "Iphone 13",
+        "Iphone 12 promax",
+        "Iphone 12 pro",
+        "Iphone 12"
+      ]
     },
     {
       "id": "44f775f1-daae-4c99-ad40-d442d2d8626a",
@@ -79,14 +89,15 @@
     {
       "id": "f223c2ab-2645-449b-b697-ed5af268a918",
       "title": "Dell",
-      "series": ["Dell - XPS",
-                  "Dell precision",
-                  "Dell inspiron",
-                  "Dell latitude",
-                  "Dell - Gaming" 
-                ]
+      "series": [
+        "Dell - XPS",
+        "Dell precision",
+        "Dell inspiron",
+        "Dell latitude",
+        "Dell - Gaming"
+      ]
     }
-    ],
+  ],
   "products": [
     {
       "id": "73417929-0510-431b-82d4-78f5dd320707",
@@ -118,7 +129,7 @@
       "id": "059798f7-ce7e-4a2d-8ed2-9e9b9e56cfcf",
       "title": "ThinkPad T14 Gen 3 14 inch FHD Core I7 1260P 16GB 512GB SSD nVidia MX550 2GB",
       "img": "https://mac24h.vn/images/thumbnails/290/290/detailed/49/T14_GEN_3_Mac24h_v5cg-u7_2fqq-15.png?t=1672461027",
-      "price": 33900000 ,
+      "price": 33900000,
       "salePrice": null,
       "isDeleted": false,
       "isNew": true,
@@ -226,7 +237,7 @@
       "categories": "apple",
       "quantity": 3,
       "description": "Processor : 2.4GHz 8-core 9th-generation Intel Core i9 processor Turbo Boost up to 5.0GHz AMD Radeon Pro 5500M with 8GB of GDDR6 memory 32GB 2666MHz DDR4 memory 1TB SSD storage¹ 16-inch Retina display with True ToneTouch Bar and Touch ID "
-    }, 
+    },
     {
       "id": "2cda15c5-23e7-4628-a26f-5392a2d2360a",
       "title": "MLL42-Macbook Pro 2016 13 inch Core I7 2.4Ghz 16GB 256GB New 98%",
@@ -283,11 +294,10 @@
       "description": "Processor :2.4GHz 8-core 9th-generation Intel Core i9 processor Turbo Boost up to 5.0GHz AMD Radeon Pro 5500M with 4GB of GDDR6 memory 64GB 2666MHz DDR4 memor 512GB SSD storage¹ 16-inch Retina display with True Tone Touch Bar and Touch ID Four Thunderbolt 3 ports"
     },
     {
-
       "id": "451876ab-0340-47f2-9658-c8afb88839da",
       "title": "Macbook Air 2020 13 inch Core I5 8GB 256GB ( Z0YJ0 - CTO ) New 99%",
       "img": "https://mac24h.vn/images/thumbnails/290/290/detailed/48/macbook_air_2020_mwtj2_space_gray.png?t=1672419199",
-      "price": 22900000 ,
+      "price": 22900000,
       "salePrice": null,
       "isNew": false,
       "categories": "apple",
@@ -524,7 +534,7 @@
       "categories": "Phụ kiện",
       "quantity": 3,
       "description": "Processor :- Dùng cho iPhone, Apple Watch, iPad, Mac Spatial Audio + Dynamic Head Tracking Hỗ trợ Dolby Atmos Điều chỉnh nhạc Adaptive EQ theo thời gian thực Kháng nước và mồ hôi IPX4 Thời lượng phát lại đến 6 giờ Thêm đến 24 giờ nhờ hộp sạc"
-    },    
+    },
     {
       "id": "841b044a-c6e0-4b90-8125-16265dcedc4b",
       "title": "Airpod Pro - 2021",
@@ -535,7 +545,7 @@
       "categories": "Phụ kiện",
       "quantity": 3,
       "description": "Processor : Tai nghe không dây được Apple thiết kế cho các thiết bị Apple Thiết kế hoàn toàn mới, kiểu in-ear, nhẹ Công nghệ khử tiếng ồn chủ động Chế độ Transparency có thể nghe âm thanh bên ngoài Chuẩn chống mồ hôi và chống nước IPX4"
-    }, 
+    },
     {
       "id": "3413c789-4a13-4c90-8c0b-91b01d0511bb",
       "title": " Apple Airpod 2",
@@ -546,7 +556,7 @@
       "categories": "Phụ kiện",
       "quantity": 3,
       "description": "Processor : Thiết kế sang trọng, đẳng cấp Âm thanh rõ ràng, vượt trội, hoàn hảo Thiết kế không dây, nhỏ gọn Tự động thiết lập và kết nối"
-    },  
+    },
     {
       "id": "4db2952b-a5b3-4674-bb1b-e55a65f51ce7",
       "title": "APPLE - USB-C VGA Multiport Adapter",
